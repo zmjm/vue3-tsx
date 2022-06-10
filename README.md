@@ -10,13 +10,13 @@
 
 ## 准备工作
 
-1. 确保安装`yarn`
+确保安装`yarn`
 
 ```bash
 npm install yarn -g
 ```
 
-2. 确保安装`vite`脚手架
+确保安装`vite`脚手架
 
 ```bash
 npm install -g create-vite-app
